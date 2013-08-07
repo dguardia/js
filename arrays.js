@@ -1,5 +1,4 @@
 
-
 firstName = new Array();
 lastName = new Array();
 street = new Array();
